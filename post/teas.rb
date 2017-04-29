@@ -10,7 +10,7 @@ class MetasploitModule < Msf::Post
 	      def initialize
 		    super(
 			'       Name'  => 'teas',
-			        'Description' => 'just for fun :v ',
+			        'Description' => 'A Simple Module i Created Just for teasing my Cousins :v ',
 		        	'License'     =>  MSF_LICENSE,
 			        'Author'      =>  'M.Samaak'			 
 			        )
